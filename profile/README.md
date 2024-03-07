@@ -14,6 +14,7 @@ Here you finde a basic overview of the different service interacting with each o
  
   - https://blog.vonmorgen.org/ Old Blog, will be moved to kartevonmorgen.org-Wordpress soon ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/807db636-c1bb-41f2-a781-5e36a27bd7a3)
   - https://bildung.vonmorgen.org/ German educational ressources
+  - *.vonmorgen.org Subdomains are redirectoins to many different regional or thematic maps... 
   - https://glossardeswandels.de/ Collection of relevant networks and terms regarding the transformation. ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/bcd5582e-777a-47cf-8787-5f5b38a130bb)
  
 - https://openfairdb.org/ Interface of the Backend (Database of the map) (Currently not working) ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/71c01804-a74c-492f-b360-05795f5bd074)
