@@ -1,19 +1,29 @@
 ## Map of Tomorrow | Karte von morgen 👋
 
 Welcome to the Ecosystem of the Map of Tomorrow (short: `kvm` - Karte von morgen)
-Here you finde a baic overview of the different service interacting with each other
+Here you finde a basic overview of the different service interacting with each other
 
 ### Domains
-- https://www.kartevonmorgen.org/ Landingpage (currently on wordpress)
-  - https://www.kartevonmorgen.org/m/ Desktop Map application (Frontend)
-  - https://dev.kartevonmorgen.org/ Test-System of the map (static Landingmpage /m is the map
+- https://www.kartevonmorgen.org/ Landingpage (currently on wordpress) ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/b1585108-82e1-4c87-9d0b-a6efa09a3484)
+
+  - https://www.kartevonmorgen.org/m/ Desktop Map application (Frontend)![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/e6afd2b7-7ea5-45ca-9bfb-d94c40f0d4d6)
+
+  - https://dev.kartevonmorgen.org/ Test-System of the map (static Landingmpage /m is the map ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/86406046-5882-42c3-a60e-78c8325029ca)
+  - https://v0.kartevonmorgen.org/ First Version of the map (2014-2021) ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/9713682e-a97c-4cb5-af0a-880771a83ab1)
+
+
+ 
+  - https://glossardeswandels.de/ Collection of relevant networks and terms regarding the transformation.
+  - https://blog.vonmorgen.org/ Old Blog, will be moved to kartevonmorgen.org-Wordpress soon
+  - https://bildung.vonmorgen.org/ German educational ressources
  
 - https://openfairdb.org/ Interface of the Backend (Database of the map) (Currently not working) ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/71c01804-a74c-492f-b360-05795f5bd074)
 
   - https://openfairdb.org/clearance Clearance Center for controlled / moderated maps
-  - https://api.ofdb.io/ root link for all Rest-calls (Dokumentation see: https://app.swaggerhub.com/apis/Kartevonmorgen/openfairdb/
   - https://ofdb.io/ Prototype of new backend, should be moved to openfairdb.org as soon it is ready ([https://github.com/kartevonmorgen/openfairdb/issues/508]([url](https://github.com/kartevonmorgen/openfairdb/issues/508)))
-  - https://dev.openfairdb.org/ Test-Backend interface (not working)
+  - https://api.ofdb.io/ root link for all Rest-calls (Dokumentation see: https://app.swaggerhub.com/apis/Kartevonmorgen/openfairdb/
+
+  - [https://dev.openfairdb.org/](https://dev.ofdb.io/) Test-Backend interface (not working)
  
 - 
 <!--
