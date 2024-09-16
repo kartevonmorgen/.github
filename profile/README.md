@@ -3,6 +3,8 @@
 Welcome to the Ecosystem of the Map of Tomorrow (short: `kvm` - Karte von morgen)
 Here you finde a basic overview of the different service interacting with each other
 
+In our Wiki you learn how to power-use the map: https://github.com/kartevonmorgen/kartevonmorgen.ts/wiki
+
 ### Domains
 - https://www.kartevonmorgen.org/ Landingpage (currently on wordpress) ![grafik](https://github.com/kartevonmorgen/.github/assets/15019030/b1585108-82e1-4c87-9d0b-a6efa09a3484)
 
